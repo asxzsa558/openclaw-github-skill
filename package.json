@@ -1,0 +1,1 @@
+{"name": "openclaw-github-skill", "version": "1.0.0", "dependencies": {"@octokit/rest": "^18.0.0"}}
